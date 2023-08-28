@@ -1,0 +1,96 @@
+.next-nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1.5rem;
+}
+
+.next-cont{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.search-box{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 20px;
+    border: 1px solid;
+}
+
+input{
+    border: none;
+    outline: none;
+}
+
+.room-details{
+    display: flex;
+    flex-direction: column;
+}
+
+.images-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.next-img1{
+    width: 30rem;
+    height: 25rem;
+    margin: 0.3rem;
+}
+
+.next-img2{
+    width: 20rem;
+    height: 12rem;
+    margin: 0.3rem;
+}
+
+.host-img{
+    border-radius: 50%;
+    margin-left: 3rem;
+}
+
+.host-deet, .room-deets, .calender{
+    display: flex;
+    text-align: left;
+}
+
+.space-text{
+    text-align: justify;
+    width: 70rem;
+    margin-left: 12rem !important; 
+}
+
+.cal{
+    margin-top: 1rem;
+    margin-left: 12rem;
+}
+
+.text{
+    text-align: left;
+    margin-left: 12rem !important; 
+    margin-bottom: 0.5rem !important;
+}
+
+.text2{
+    text-align: left;
+    margin-left: 2rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.text3{
+    text-align: left;
+    margin-left: 12rem !important; 
+    margin-top: 3.2rem !important;
+}
+
+.res{
+    
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    width: 15rem;
+    height: 3rem;
+    border-radius: 10px;
+    background-color: rgb(178, 65, 84);
+    color: white;
+}

@@ -1,0 +1,10 @@
+.pool-img{
+    width: 20rem;
+    height: 20rem;
+    border-radius: 15px;
+}
+
+.card{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}

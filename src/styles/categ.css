@@ -1,0 +1,19 @@
+.categ-logo{
+    width: 2rem;
+    height: 2rem;
+}
+
+.categ-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1rem;
+}
+
+.categ-name{
+    margin-top: 0 !important;
+    color: black;
+}
+
+a{
+    text-decoration: none !important;
+}
